@@ -1,5 +1,5 @@
 # Issue Replication 
-This Repository is a minimal replication of an issue with pnpm deploy.
+This Repository is a minimal replication of an issue pnpm/pnpm#8835.
 
 When running `pnpm deploy` on versions on pnpm greater than `9.8` an extraneous path is created.
 
